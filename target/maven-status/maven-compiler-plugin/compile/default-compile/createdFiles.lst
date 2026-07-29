@@ -1,0 +1,10 @@
+com\sena\helpdesk\model\EstadoTicket.class
+com\sena\helpdesk\model\Prioridad.class
+com\sena\helpdesk\model\Usuario.class
+com\sena\helpdesk\HelpdeskApplication.class
+com\sena\helpdesk\model\Rol.class
+com\sena\helpdesk\repository\UsuarioRepository.class
+com\sena\helpdesk\model\Ticket$TicketBuilder.class
+com\sena\helpdesk\model\Ticket.class
+com\sena\helpdesk\model\Usuario$UsuarioBuilder.class
+com\sena\helpdesk\repository\TicketRepository.class
